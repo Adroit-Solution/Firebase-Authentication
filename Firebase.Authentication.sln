@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebase.Authentication", "Firebase.Authentication.csproj", "{3C880F0E-1DB5-4931-A284-A2BBF904416B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C880F0E-1DB5-4931-A284-A2BBF904416B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C880F0E-1DB5-4931-A284-A2BBF904416B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C880F0E-1DB5-4931-A284-A2BBF904416B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C880F0E-1DB5-4931-A284-A2BBF904416B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {634FCD34-9F2F-431A-85E8-823AD6D8199C}
+	EndGlobalSection
+EndGlobal
