@@ -1,0 +1,6 @@
+@Firebase.Authentication_HostAddress = http://localhost:5124
+
+GET {{Firebase.Authentication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
